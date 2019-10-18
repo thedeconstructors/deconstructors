@@ -1,2 +1,2 @@
 # deconstructors
-JP Project repository
+JP product repository
